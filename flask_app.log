@@ -1,0 +1,52 @@
+2025-06-17 10:20:37,162 - ML model initialized.
+2025-06-17 10:20:37,260 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-17 10:20:37,260 - [33mPress CTRL+C to quit[0m
+2025-06-17 10:20:37,260 -  * Restarting with stat
+2025-06-17 10:20:40,649 - ML model initialized.
+2025-06-17 10:20:40,676 -  * Debugger is active!
+2025-06-17 10:20:40,684 -  * Debugger PIN: 554-668-694
+2025-06-17 10:28:31,893 - Index page loaded.
+2025-06-17 10:28:32,206 - 127.0.0.1 - - [17/Jun/2025 10:28:32] "GET / HTTP/1.1" 200 -
+2025-06-17 10:28:33,267 - 127.0.0.1 - - [17/Jun/2025 10:28:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-17 10:39:20,171 - Index page loaded.
+2025-06-17 10:39:20,397 - 127.0.0.1 - - [17/Jun/2025 10:39:20] "GET / HTTP/1.1" 200 -
+2025-06-17 10:47:22,305 - Processing prediction.
+2025-06-17 10:47:22,438 - Error in prediction: could not convert string to float: '192.168.1.1'
+2025-06-17 10:47:22,471 - 127.0.0.1 - - [17/Jun/2025 10:47:22] "POST /predict HTTP/1.1" 200 -
+2025-06-17 10:50:56,870 -  * Detected change in 'D:\\COLLEGE PROJECTS\\Cyber Project\\app.py', reloading
+2025-06-17 10:51:00,510 -  * Restarting with stat
+2025-06-17 10:51:09,202 - ML model initialized.
+2025-06-17 10:51:09,278 -  * Debugger is active!
+2025-06-17 10:51:09,324 -  * Debugger PIN: 554-668-694
+2025-06-17 10:52:52,310 - Error in prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Destination IP
+- Flow ID
+- Protocol
+- Source IP
+- Timestamp
+
+2025-06-17 10:52:52,642 - 127.0.0.1 - - [17/Jun/2025 10:52:52] "POST /predict HTTP/1.1" 200 -
+2025-06-17 11:00:27,877 -  * Detected change in 'D:\\COLLEGE PROJECTS\\Cyber Project\\app.py', reloading
+2025-06-17 11:00:30,452 -  * Restarting with stat
+2025-06-17 11:00:37,369 - ML model initialized.
+2025-06-17 11:00:37,419 -  * Debugger is active!
+2025-06-17 11:00:37,443 -  * Debugger PIN: 554-668-694
+2025-06-17 11:03:47,937 - Processing prediction.
+2025-06-17 11:03:48,108 - Error in prediction: could not convert string to float: '192.168.1.1'
+2025-06-17 11:03:48,245 - 127.0.0.1 - - [17/Jun/2025 11:03:48] "POST /predict HTTP/1.1" 200 -
+2025-06-17 11:04:51,492 - Processing prediction.
+2025-06-17 11:04:51,494 - Error in prediction: could not convert string to float: '192.168.1.1'
+2025-06-17 11:04:51,498 - 127.0.0.1 - - [17/Jun/2025 11:04:51] "POST /predict HTTP/1.1" 200 -
+2025-06-17 11:26:09,225 - ML model initialized.
+2025-06-17 11:26:09,341 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-17 11:26:09,341 - [33mPress CTRL+C to quit[0m
+2025-06-17 11:26:09,380 -  * Restarting with watchdog (windowsapi)
+2025-06-17 11:26:12,851 - ML model initialized.
+2025-06-17 11:26:12,873 -  * Debugger is active!
+2025-06-17 11:26:12,881 -  * Debugger PIN: 387-414-186
+2025-06-17 11:26:52,835 - Index page loaded.
+2025-06-17 11:26:53,376 - 127.0.0.1 - - [17/Jun/2025 11:26:53] "GET / HTTP/1.1" 200 -
+2025-06-17 11:26:53,651 - 127.0.0.1 - - [17/Jun/2025 11:26:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
